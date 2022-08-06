@@ -1,4 +1,4 @@
-<tnz framecount="12" version="71.1">
+<tnz framecount="13" version="71.1">
   <generator>
     "OpenToonz 1.6"
   </generator>
@@ -381,7 +381,7 @@
         </status>
         <cells>
           <cell>
-            0 12 <level id='1'/>0001 1 
+            0 13 <level id='1'/>0001 1 
           </cell>
           </cells>
         <fx>
@@ -585,6 +585,6 @@
     </xsheet>
   <history>
     "| #    DATE:       Time:   MACHINE:    USER:           |"
-    "| #1   06 Aug 22   15:06   DESKTOP-AQMHMarti           |"
+    "| #1   06 Aug 22   15:10   DESKTOP-AQMHMarti           |"
   </history>
   </tnz>
